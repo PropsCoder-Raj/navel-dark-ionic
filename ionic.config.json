@@ -1,0 +1,7 @@
+{
+  "name": "navel-dark-ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
